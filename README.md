@@ -1,6 +1,6 @@
 # multistatic
 
-Provides a convenience factory method for instantiating multidimensional arrays.
+Provides a convenience factory method for instantiating multidimensional static arrays.
 
 ## Installation
 
